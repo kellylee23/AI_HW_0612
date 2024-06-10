@@ -19,6 +19,6 @@
 
 ### <결과 예측 이미지>
 
-
+![Figure_1](https://github.com/kellylee23/AI_HW_0612/assets/163493999/ab164cb7-da7d-465d-b829-b446b6bfc671)
 
 
