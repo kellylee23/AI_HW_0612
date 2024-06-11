@@ -1,4 +1,4 @@
-## Nadam 이용 - 모델컴파일 (4-1)
+## Nadam 이용 - 모델컴파일 (4-2)
 
 import tensorflow as tf
 import tensorflow_datasets as tfds
